@@ -1,6 +1,6 @@
-8   tikimybė, kad bet kuriuo laiko momentu klientas užsinorės sumuštinio.
-2    iš virtuvės vienu kartu pateikiamų sumuštinių kiekis.
-12   iš virtuvės pateikiamų sumuštinių periodiškumas.
-400  kiek laiko išgulėjęs sumuštinis vakare išmetamas.
-2    vieno sumuštinio kaina.
-1000 darbo dienos ilgis.
+12   the probability that a customer will take a sandwich at any given time.
+2    the number of sandwiches served from the kitchen at one time.
+12   the frequency of sandwiches served from the kitchen.
+400  how old sandwiches will be thrown away in the evening.
+2    the price of one sandwich.
+1000 the length of day.

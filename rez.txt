@@ -1,13 +1,13 @@
 OLD sandwich places:
-oldSandwPlace1: 49
-oldSandwPlace2 48
-Bad sandwiches: 60
+oldSandwPlace1: 30
+oldSandwPlace2 31
+Bad sandwiches: 45
 
 NEW sandwich places:
-newSandwPlace1 is made of 49 elements
-newSandwPlace2 is made of 48 elements
-Bad sandwiches: 31
+newSandwPlace1 is made of 30 elements
+newSandwPlace2 is made of 31 elements
+Bad sandwiches: 3
 
 One NEW sandwich place:
-Sandwich place is made of 49 elements
-Bad sandwiches: 21
+The sandwich place is made of 49 elements
+Bad sandwiches: 0
