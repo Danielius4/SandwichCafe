@@ -1,0 +1,6 @@
+8   tikimybė, kad bet kuriuo laiko momentu klientas užsinorės sumuštinio.
+2    iš virtuvės vienu kartu pateikiamų sumuštinių kiekis.
+12   iš virtuvės pateikiamų sumuštinių periodiškumas.
+400  kiek laiko išgulėjęs sumuštinis vakare išmetamas.
+2    vieno sumuštinio kaina.
+1000 darbo dienos ilgis.
